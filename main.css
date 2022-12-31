@@ -116,7 +116,7 @@
     --background-sepia);
     --user-modal-blur: calc(var(
     --background-blur) + 3px);
-    /* --home-icon: url(https://clearvision.github.io/icons/discord.svg); */
+    --home-icon: url(https://clearvision.github.io/icons/discord.svg);
     --home-position: center;
     --home-size: 40px;
     --bd-blue: var(
